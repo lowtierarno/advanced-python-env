@@ -1,6 +1,0 @@
-first_name, last_name = map(str, input("Enter first and last name: ").split())
-age= int(input("Age: "))
-num= int(input("Phone number:"))
-print("Your first name, last name:", first_name, last_name)
-print("Your age:", age)
-print("Your phone number", num)
